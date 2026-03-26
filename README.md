@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Althia Grace Gimarino</h1>
 <h3 align="center">A passionate Computer Science Student in University of Mindanao- Main</h3>
 
-- 🔭 I’m currently working on **Coop Management for CCDC office**
+- 🔭 I’m currently working on **Coop Management for CCDC office, File Management System For Kings Media and Katipunan Loan Management**
 
 - 🌱 I’m currently learning **Linux, AWS, PHP and Laravel, C and Docker**
 
