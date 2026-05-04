@@ -14,10 +14,9 @@
 -->
 
 <div>
-    <img src="https://github.com/user-attachments/assets/d9d1c440-2aab-407b-9386-1a70e5a61895" />
+    <img src="https://github.com/user-attachments/assets/d9d1c440-2aab-407b-9386-1a70e5a61895" 
     <img width="700" height="300" alt="terminal" />
     
-
  </div>
 
 <!--
