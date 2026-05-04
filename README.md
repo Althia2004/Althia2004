@@ -15,7 +15,8 @@
 
 <div>
     <img src="https://github.com/user-attachments/assets/d9d1c440-2aab-407b-9386-1a70e5a61895" />
-    <img width="700" height="300" alt="terminal" 
+    <img width="700" height="300" alt="terminal" />
+    
 
  </div>
 
@@ -29,11 +30,8 @@
 [![My Skills](https://skillicons.dev/icons?i=py,laravel,github,git,mongodb,mysql,java,spring,js,nodejs,react,express,jest,jenkins,cs,dotnet,html,css,bootstrap,pug,php,blender,ps,swift)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby,c,c#)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby,c)](https://skillicons.dev)
 
-<!--
-     I also have my own blog with useful information, check it out ^^
--->
 
 
 
