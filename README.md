@@ -6,7 +6,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+I+am+Althia+Grace+Gimarino;Computer+Scientist" alt="Computer Science"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+I+am+Althia+Grace+Gimarino;Computer+Science+Student+3rd+Year+At+University+Of+Mindanao-Main" alt="Computer Science"/>
 </a>
 
 <!--
@@ -16,7 +16,8 @@
 <div>
     <img src="https://github.com/user-attachments/assets/d9d1c440-2aab-407b-9386-1a70e5a61895" />
     <img width="700" height="300" alt="terminal" 
-</div>
+
+ </div>
 
 <!--
      My mission, because I'm a superhero!
